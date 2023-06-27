@@ -1,9 +1,7 @@
 # Criando um Banco Digital com Java e Orientação a Objetos
 
-## 31/12/2021 - Desafio de Projeto do Bootcamp Cognizant Java Developer  
+## 31/12/2021 - Desafio de Projeto do Bootcamp Java Developer  
 #teamJavaCog
-
-⚠️ Não estou disponibilizando o link direto para o desafio, pois o mesmo faz parte da trilha de alguns Bootcamps. Logo, você terá que se matricular no Bootcamp para ter acesso ao curso.⚠️
 
 ------------
 
@@ -35,13 +33,5 @@ Foram apresentadas os principais conceitos de Orientação a Objetos em Java:
 - Alteração das impressões do extrato.
 - Documentação das classes.
 
-### Contribuições
-#### Este repositório foi criado para fins de estudo, então fique à vontade para cloná-lo, sugerir mudanças ou correções.
-#### Todo comentário é muito bem vindo!🤝
 
-## Autor  
-
-Feito com ❤️ por Reginaldo Santos de Medeiros 👋🏽 Entre em contato!
-
-[![Linkedin Badge](https://img.shields.io/badge/-Reginaldo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reginaldo-santos-de-medeiros-59517324/)](https://www.linkedin.com/in/reginaldo-santos-de-medeiros-59517324/) [![Gmail Badge](https://img.shields.io/badge/-rsanme@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rsanme@gmail.com)](mailto:rsanme@gmail.com)
 
